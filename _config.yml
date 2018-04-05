@@ -1,5 +1,14 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+url: "https://gerardon.github.io/"
+repository: "gerardon/gerardon.github.io"
 logo: "/assets/img/avatar.png"
 title: "cv.md"
 description: "Gerardo Nobre Soares"
 show_downloads: false
+twitter:
+  username: "GreaterGerardon"
+facebook:
+  username: "gerardo.soares"
+author:
+  name: "Gerardo Nobre Soares"
+  avatar: "/assets/img/avatar.png"
