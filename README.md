@@ -24,28 +24,28 @@ Sou fluente em Inglês e já trabalhei com empresas brasileiras e estrangeiras, 
 *08/2015 - 09/2017*
 
 **Finxi** é uma startup que provê consultoria de tecnologia para várias empresas. Principal Desenvolvedor de um sistema para um de seus clientes, a multinacional DMS Logistics, que vende serviços de transporte internacional. O sistema desenvolvido, além de operacionalizar os serviços providos pela empresa, gerando documentos oficiais de embarque tanto áereo quanto marítimo, também organizava questões internas, como gestão de clientes, precificação e orçamento.  
-*Tecnologias Utilizadas: Python, Django, Django REST Framework, openpyxl, PostgreSQL, Fabric, Git, HTTP, REST, Redis, RQ.*
+*Tecnologias Utilizadas: Python, Django, Django REST Framework, Gunicorn, openpyxl, requests, PostgreSQL, Fabric, Git, HTTP, REST, Redis, RQ.*
 
 
 ### Desenvolvedor de Software, Elo Group
 *02/2014 - 07/2015*
 
 **Elo Group** é uma empresa de gestão e consultoria empresarial. Trabalhei na equipe de desenvolvimento de um sistema web legado para uma rede de clínicas de medicina do trabalho.   
-*Tecnologias utilizadas: Git, TDD, PostgreSQL, Python, Mock, Django, Celery, Ruby, Rails, SSO, Jenkins, AWS, Fabric, Docker.*
+*Tecnologias utilizadas: Git, TDD, PostgreSQL, Python, Mock, Django, requests, Gunicorn, Celery, Ruby, Rails, SSO, Jenkins, AWS, Fabric, Docker.*
 
 
 ### Desenvolvedor Júnior, Myfreecomm
 *01/2013 - 02/2014*
  
 **Myfreecomm** era uma empresa que vendia sistemas para gestão empresarial e pessoal. Trabalhei na equipe de serviços internos da empresa, mantendo uma solução SSO robusta hospedada na AWS e desenvolvendo APIs RESTful.  
-*Tecnologias utilizadas: MongoDB, Linux, Git, Shell, HTTP, REST, Python, Django, Django REST Framework, unittest, mock, Celery, Ruby, AWS.*
+*Tecnologias utilizadas: MongoDB, Linux, Git, Shell, HTTP, REST, Python, Django, Django REST Framework, requests, unittest, mock, Celery, Ruby, AWS.*
 
 
 ### Estagiário de Desenvolvimento, Sieve
 *09/2012 - 12/2012*
 
 **Sieve** foi uma startup que provia monitoramento de preços em ecommerces, atualmente foi comprada pela B2W. Eu desenvolvi um sistema para comparação e notificações de quedas de preço em diversos produtos.  
-*Tecnologias utilizadas: Python, Django, MySQL InnoDB, TDD, git, celery, mailchimp.*
+*Tecnologias utilizadas: Python, Django, requests, MySQL InnoDB, TDD, git, celery, mailchimp.*
 
 
 ### Estagiário de Desenvolvimento, O Holandês
@@ -53,3 +53,12 @@ Sou fluente em Inglês e já trabalhei com empresas brasileiras e estrangeiras, 
 
 **O Holandês** foi uma startup que fazia leilões reversos, em que vendedores dão lances para conquistar um comprador. Eu fiz parte do time de desenvolvimento da aplicação web que realizava os leilões.   
 *Tecnologias utilizadas: Git, Python, Django, PostgreSQL, Celery, TDD, Jenkins.*
+
+
+## Outras Atividades
+
+### CODENAMES API: Implementando um board game com Django REST Framework
+*Python Sudeste 2018*
+
+Tutorial ministrado durante a Python Sudeste 2018 em que desenvolvi uma API e seu cliente com as regras do board game CODENAMES, de Vlaada Chvátil. O objetivo foi ensinar boas práticas de desenvolvimento de API e organização de código de maneira lúdica para iniciantes no Django. Duração: 6h
+*Tecnologias utilizadas: Python, Django, Django REST Framework, Mock, requests.*
