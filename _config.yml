@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: "cv.md"
 description: "Gerardo Nobre Soares"
 show_downloads: false
-logo: "https://en.gravatar.com/userimage/22594948/8c158d4643e3582cd1826d22e83978b0.jpg?size=200"
+logo: /img/avatar.jpg
