@@ -57,8 +57,8 @@ Sou fluente em Inglês e já trabalhei com empresas brasileiras e estrangeiras, 
 
 ## Outras Atividades
 
-### CODENAMES API: Implementando um board game com Django REST Framework
+### Codenames API: Implementando um board game com Django REST Framework
 *Python Sudeste 2018*
 
-Tutorial ministrado durante a Python Sudeste 2018 em que desenvolvi uma API e seu cliente com as regras do board game CODENAMES, de Vlaada Chvátil. O objetivo foi ensinar boas práticas de desenvolvimento de API e organização de código de maneira lúdica para iniciantes no Django. Duração: 6h
+Tutorial ministrado durante a Python Sudeste 2018 em que desenvolvi uma API e seu cliente com as regras do board game Codenames, de Vlaada Chvátil. O objetivo foi ensinar boas práticas de desenvolvimento de API e organização de código de maneira lúdica para iniciantes no Django. Duração: 6h
 *Tecnologias utilizadas: Python, Django, Django REST Framework, Mock, requests.*
