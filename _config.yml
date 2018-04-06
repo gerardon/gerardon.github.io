@@ -1,6 +1,4 @@
-theme: jekyll-theme-dinky
-url: "https://gerardon.github.io/"
-repository: "gerardon/gerardon.github.io"
+theme: jekyll-theme-minimal
 logo: "/assets/img/avatar.png"
 title: " "
 description: " "
