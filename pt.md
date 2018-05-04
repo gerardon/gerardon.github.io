@@ -1,4 +1,4 @@
-[english](README.md) / português
+[english](README.md) **|** português
 
 # Gerardo Nobre Soares
 
