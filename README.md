@@ -1,4 +1,4 @@
-english / [português](pt.md)
+english **|** [português](pt.md)
 
 # Gerardo Nobre Soares
 
