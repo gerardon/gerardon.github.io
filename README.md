@@ -5,9 +5,9 @@ english / [português](pt.md)
 ![](http://gravatar.com/userimage/22594948/8c158d4643e3582cd1826d22e83978b0.jpg?size=200)
 
 ### Software Developer
-*[ger@rdon.xyz](mailto:ger@rdon.xyz)*
-*+55 31 99555 9966*
-*Belo Horizonte/MG, Brazil*
+*[ger@rdon.xyz](mailto:ger@rdon.xyz)*   
+*+55 31 99555 9966*   
+*Belo Horizonte/MG, Brazil*   
 
 
 I'm a Backend Developer with circa 6 years of experience working with *Python* and the Django framework, besides writing *Ruby*, *Java*, *Javascript*, *Shell Script* and *Go*. My experience with either new or legacy projects tells me that it's not enough to just fix the problem, but rather doing it in an elegant and sustainable way. Because of that my study focus these past few years has been code organization and design, as well as unitary tests. I'm an active member of both ApyB (Associação Python Brazil) and PUG-MG (Python User Group - MG) while attending every national python events since 2012, as well as many regional ones.
