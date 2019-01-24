@@ -18,6 +18,12 @@ Sou fluente em Inglês e já trabalhei com empresas brasileiras e estrangeiras, 
 
 ## Experiência Profissional
 
+### Desenvolvedor, Ferpection
+*06/2018 - presente*
+
+**Ferpection** é uma empresa francesa focada em pesquisa de usuários e análise de UX. Faço parte do time de desenvolvimento da plataforma proprietária responsável pela coleta e análise dos feedback providos pelos usuários.
+*Tecnologias utilizadas: git, pytest, Python, Django, PostgreSQL, GraphQL, Redis, TDD.*
+
 ### Desenvolvedor, Simple Fractal
 *11/2017 - 02/2018*
 
