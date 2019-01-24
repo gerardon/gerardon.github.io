@@ -19,6 +19,7 @@ I'm fluent in English and have worked with Brazilian and foreign companies, both
 
 ### Backend Developer, Ferpection
 *06/2018 - present*
+
 **Ferpection** is a french company focused on user research and UX. I develop and maintain their platform that's focused on gathering user feedback and analysing it. The company has major European clients and a very decentralized culture.
 *Technologies used: git, pytest, Python, Django, PostgreSQL, GraphQL, Redis, TDD.*
 
