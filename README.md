@@ -10,7 +10,7 @@ english | [português](pt.md)
 *Belo Horizonte/MG, Brazil*   
 
 
-I'm a Backend Developer with circa 6 years of experience working with *Python* and the Django framework, besides knowing some *Ruby*, *Java*, *Javascript*, *Shell Script* and *Go*. My experience with either new or legacy projects tells me that it's not enough to just fix the problem, but rather doing it in an elegant and sustainable way. Because of that my study focus these past few years has been code organization and design, as well as unitary tests. I'm an active member of both ApyB (Associação Python Brazil) and PUG-MG (Python User Group - MG) while attending every national python events since 2012, as well as many regional ones.
+I'm a Backend Developer with circa 8 years of experience working with *Python* and the Django framework, besides knowing some *Ruby*, *Java*, *Javascript*, *Shell Script* and *Go*. My experience with either new or legacy projects tells me that it's not enough to just fix the problem, but rather doing it in an elegant and sustainable way. Because of that my study focus these past few years has been code organization and design, as well as unitary tests. I'm an active member of both ApyB (Associação Python Brazil) and PUG-MG (Python User Group - MG) while attending every national python events since 2012, as well as many regional ones.
 
 I'm fluent in English and have worked with Brazilian and foreign companies, both on site and remotely. I have excellent comunication skills and organization, that is why I work even better in teams and believe in *Code Reviews*. I'm looking for a place that allows me to write good code, so that both me and the company are able to grow.
 
