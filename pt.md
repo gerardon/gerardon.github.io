@@ -11,7 +11,7 @@
 
 
 
-Sou um Desenvolvedor *Backend* com cerca de 6 anos de experiência trabalhando com a linguagem Python e o *framework* Django, além de já ter escrito códigos em Ruby, Java, Javascript, Shell Script e Go. Minha experiência tanto com projetos novos ou legados é que não é só necessário resolver o problema, mas sim, resolver o problema de uma forma elegante e sustentável. Por isso meu foco de estudos nos últimos anos tem sido organização e design de código, assim como testes unitários automatizados. Sou membro ativo da ApyB (Associação Python Brasil) e do PUG-MG (Grupo de Usuários de Python - MG) e participo dos eventos nacionais e regionais desde 2012.
+Sou um Desenvolvedor *Backend* com cerca de 8 anos de experiência trabalhando com a linguagem Python e o *framework* Django, além de já ter escrito códigos em Ruby, Java, Javascript, Shell Script e Go. Minha experiência tanto com projetos novos ou legados é que não é só necessário resolver o problema, mas sim, resolver o problema de uma forma elegante e sustentável. Por isso meu foco de estudos nos últimos anos tem sido organização e design de código, assim como testes unitários automatizados. Sou membro ativo da ApyB (Associação Python Brasil) e do PUG-MG (Grupo de Usuários de Python - MG) e participo dos eventos nacionais e regionais desde 2012.
 
 Sou fluente em Inglês e já trabalhei com empresas brasileiras e estrangeiras, tanto no local quanto remotamente. Tenho excelentes habilidades de comunicação e organização, por isso trabalho ainda melhor em equipes e acredito na cultura de *Code Reviews*. Procuro um lugar que me permita desenvolver soluções conscientes, para que tanto eu como a empresa possamos crescer.
 
