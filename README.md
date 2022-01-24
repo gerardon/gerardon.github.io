@@ -5,7 +5,7 @@ english | [português](pt.md)
 ![](http://gravatar.com/userimage/22594948/8c158d4643e3582cd1826d22e83978b0.jpg?size=200)
 
 ### Software Developer
-*[ger@rdon.xyz](mailto:ger@rdon.xyz)*   
+*[gerardonsoares@gmail.com](mailto:gerardonsoares@gmail.com)*   
 *+55 31 99555 9966*   
 *Belo Horizonte/MG, Brazil*   
 
