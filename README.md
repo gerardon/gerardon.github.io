@@ -17,8 +17,14 @@ I'm fluent in English and have worked with Brazilian and foreign companies, both
 
 ## Professional Experience
 
+### Tech Guru (Senior Developer), Simple Fractal
+*03/2023 - present*
+
+**Simple Fractal** is a North American technology company focused on building RPA solutions for the focused on the medical segment. My position is focused on two pillars: Improving the current development team through workshops, pairing sessions, code reviews, better dev tools; and as a tactical Senior Developer, being brought into projects with issues, needing fast deliveries or more stability. This allows me to ever expand my repertoire and stay focused on solving problems.
+*Technologies used: git, Python, Django, PostgreSQL, nodeJS, serverless, Docker, Dokku, Github Actions, CI/CD, AWS, Terraform, TDD, PowerBI, Microsoft Fabric.*
+
 ### Backend Developer, Ferpection
-*06/2018 - present*
+*06/2018 - 02/2023*
 
 **Ferpection** is a french company focused on user research and UX. I develop and maintain their platform that's focused on gathering user feedback and analysing it. The company has major European clients and a very decentralized culture.
 *Technologies used: git, pytest, Python, Django, PostgreSQL, GraphQL, Redis, TDD.*
@@ -26,7 +32,7 @@ I'm fluent in English and have worked with Brazilian and foreign companies, both
 ### Backend Developer, Simple Fractal
 *11/2017 - 02/2018*
 
-**Simple Fractal** is a North American technology company. I was part of the development team for a solution of questionnaires and corporate reports for a client named Heidrick and Struggles.   
+**Simple Fractal** is a North American technology company focused on providing consulting. I was part of the development team for a solution of questionnaires and corporate reports for a client named Heidrick and Struggles.   
 *Technologies used: git, pytest, Python, Django, PostgreSQL, Redis, RQ, Codeship.*
 
 
