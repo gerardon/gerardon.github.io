@@ -21,7 +21,7 @@ I'm fluent in English and have worked with Brazilian and foreign companies, both
 *03/2023 - present*
 
 **Simple Fractal** is a North American technology company focused on building RPA solutions for the focused on the medical segment. My position is focused on two pillars: Improving the current development team through workshops, pairing sessions, code reviews, better dev tools; and as a tactical Senior Developer, being brought into projects or concepts of projects with issues, needing fast deliveries or more stability. This allows me to ever expand my repertoire and stay focused on solving problems.   
-*Technologies used: git, Python, Django, PostgreSQL, nodeJS, serverless, puppeteer, Docker, Dokku, Github Actions, CI/CD, AWS, Terraform, TDD, PowerBI, Microsoft Fabric, openAI, ChatGPT.*
+*Technologies used: git, Python, Django, PostgreSQL, nodeJS, serverless, puppeteer, Docker, Dokku, Github Actions, CI/CD, AWS, Terraform, TDD, PowerBI, Microsoft Fabric, ModelContextProtocol, fast-agent.*
 
 ### Backend Developer, Ferpection
 *06/2018 - 02/2023*
