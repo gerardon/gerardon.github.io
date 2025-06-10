@@ -13,6 +13,8 @@
 Application Architect and Backend Developer with experience since 2011 in designing and implementing scalable, secure, and efficient software solutions. Proficient in Python, Ruby, and Django, with extensive background in cloud infrastructure (AWS), system architecture, API development, and team leadership. Committed to continuous learning and fostering collaborative development environments.
 
 ## Technical Skills
+- **Communication**: Portuguese, English, Non-Violent Communication, Active Listening
+- **Methodologies**: Agile, ShapeUp, Domain Driven Design, TDD, OOD/OOP, Microservices Architecture, Hexagonal Architecture
 - **Languages**: Python, Shell Script, JavaScript Ruby, Java, Go
 - **Frameworks & Tools**: Django, Django REST Framework, Rails, React, Node.js, Celery, Puppeteer, Docker, Terraform, Git, GitHub Actions, Jenkins
 - **Cloud & DevOps**: AWS (EC2, S3, CloudFront, ECS/EKS, Lambda, RDS, API Gateway, CloudFormation), Serverless Architecture, CI/CD Pipelines
@@ -25,7 +27,7 @@ Application Architect and Backend Developer with experience since 2011 in design
 
 ## Professional Experience
 
-### Tech Guru (Senior Developer) | Simple Fractal
+### Tech Guru (Architect & Developer Multiplier) | Simple Fractal
 *03/2023 - present*
 
 - Lead comprehensive architectural design initiatives, creating strategic blueprints aligned with business objectives and technical roadmaps to facilitate scalable and maintainable systems.
@@ -104,9 +106,3 @@ Application Architect and Backend Developer with experience since 2011 in design
 
 - This is a Tutorial ministered during Python Sudeste 2018 (an annual regional Python convention) developing an API and its client with the rules of Vlaada Chvátil's board game Codenames. The goal was to teach good API development practices and code organization in an entertaining way for Django beginners.    
 - **Technologies**: Python, Django, Django REST Framework, Mock, requests.*
-
-## Languages
-- **Portuguese**: Native
-- **English**: Fluent
-- **French**: Basic
-- **Spanish**: Basic
