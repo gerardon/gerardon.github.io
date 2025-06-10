@@ -3,7 +3,7 @@
 ![](http://gravatar.com/userimage/22594948/8c158d4643e3582cd1826d22e83978b0.jpg?size=200)
 
 ### Application Architect | Senior Developer
-📧 *[gerardonsoares@gmail.com](mailto:gerardonsoares@gmail.com)*   
+📧 *[gsoares@simplefractal.com](mailto:gsoares@simplefractal.com)*   
 📞 *+55 31 99555 9966*   
 📍 *Belo Horizonte/MG, Brazil*   
 🌐 [gerardon.github.io](https://gerardon.github.io/)
@@ -27,7 +27,7 @@ Application Architect and Backend Developer with experience since 2011 in design
 
 ## Professional Experience
 
-### Tech Guru (Architect & Developer Multiplier) | Simple Fractal
+### Tech Guru (Principal Architect & Developer Multiplier) | Simple Fractal
 *03/2023 - present*
 
 - Lead comprehensive architectural design initiatives, creating strategic blueprints aligned with business objectives and technical roadmaps to facilitate scalable and maintainable systems.
