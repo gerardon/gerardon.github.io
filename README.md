@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Application Architect and Backend Developer with experience since 2011 in designing and implementing scalable, secure, and efficient software solutions. Proficient in Python, Ruby, and Django, with extensive background in cloud infrastructure (AWS), system architecture, API development, and team leadership. Committed to continuous learning and fostering collaborative development environments.
+Application Architect and Backend Developer skilled in creating and managing architectural blueprints with 15+ years of development experience, aligning business solutions with enterprise strategies, and leveraging cloud technologies (AWS) for scalable, secure, and efficient software solutions. Proven experience in mentoring agile teams, designing APIs and microservices, and integrating AI-driven analytics. Strong communicator committed to fostering collaboration and continuous improvement.
 
 ## Technical Skills
 - **Communication**: Portuguese, English, Non-Violent Communication, Active Listening
