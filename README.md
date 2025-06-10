@@ -22,7 +22,6 @@ Application Architect and Backend Developer skilled in creating and managing arc
 - **APIs & Protocols**: RESTful APIs, GraphQL, OAuth2, SAML
 - **AI/ML/NLP**: Agentic AI, Multi-Agent Orchestration, Data Analytics
 - **Security**: Oauth2, SAML, Compliance Best Practices
-- **Methodologies**: Agile, ShapeUp, Domain Driven Design, TDD, OOD/OOP, Microservices Architecture, Hexagonal Architecture
 
 
 ## Professional Experience
