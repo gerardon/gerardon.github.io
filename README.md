@@ -18,7 +18,7 @@ Application Architect and Backend Developer skilled in creating and managing arc
 - **Languages**: Python, Shell Script, JavaScript, Ruby, Java, Go
 - **Frameworks & Tools**: Django, Django REST Framework, Rails, React, Node.js, Celery, Puppeteer, Docker, Terraform, Git, GitHub Actions, Jenkins
 - **Cloud & DevOps**: AWS (EC2, S3, CloudFront, ECS/EKS, Lambda, RDS, API Gateway, CloudFormation), Serverless Architecture, CI/CD Pipelines
-- **Databases**: PostgreSQL, Redis, MongoDB, MySQL InnoDB
+- **Databases**: PostgreSQL, Redis, MongoDB, MySQL InnoDB, SQL Server
 - **APIs & Protocols**: RESTful APIs, GraphQL, OAuth2, SAML
 - **AI/ML/NLP**: Agentic AI, Multi-Agent Orchestration, Data Analytics
 - **Security**: Oauth2, SAML, Compliance Best Practices
@@ -33,7 +33,7 @@ Application Architect and Backend Developer skilled in creating and managing arc
 - Conduct and facilitate workshops, pair programming sessions, and mentoring activities, significantly enhancing team competencies in software development best practices.
 - Spearhead innovative agentic AI projects, utilizing ModelContextProtocol (MCP) servers and orchestrating multi-agent systems to deliver sophisticated, scalable AI-driven products.
 - Design, develop, and oversee data analytics pipelines, collaborating closely with analysts to create actionable insights and detailed visualizations, fostering data-driven decision-making.    
-- **Technologies**: Python, Django, PostgreSQL, Node.js, Serverless, Puppeteer, Docker, Terraform, AWS, GitHub Actions, CI/CD, MCP, Fast-Agent.
+- **Technologies**: Python, Django, PostgreSQL, SQL Server, Node.js, Serverless, Puppeteer, Docker, Terraform, AWS, GitHub Actions, CI/CD, MCP, Fast-Agent.
 
 
 ### Backend Developer | Ferpection
