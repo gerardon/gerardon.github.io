@@ -15,7 +15,7 @@ Application Architect and Backend Developer skilled in creating and managing arc
 ## Technical Skills
 - **Communication**: Portuguese, English, Non-Violent Communication, Active Listening
 - **Methodologies**: Agile, ShapeUp, Domain Driven Design, TDD, OOD/OOP, Microservices Architecture, Hexagonal Architecture
-- **Languages**: Python, Shell Script, JavaScript Ruby, Java, Go
+- **Languages**: Python, Shell Script, JavaScript, Ruby, Java, Go
 - **Frameworks & Tools**: Django, Django REST Framework, Rails, React, Node.js, Celery, Puppeteer, Docker, Terraform, Git, GitHub Actions, Jenkins
 - **Cloud & DevOps**: AWS (EC2, S3, CloudFront, ECS/EKS, Lambda, RDS, API Gateway, CloudFormation), Serverless Architecture, CI/CD Pipelines
 - **Databases**: PostgreSQL, Redis, MongoDB, MySQL InnoDB
@@ -104,5 +104,5 @@ Application Architect and Backend Developer skilled in creating and managing arc
 ### Codenames API: Implementing a board game with Django REST Framework
 *Python Sudeste 2018*
 
-- This is a Tutorial ministered during Python Sudeste 2018 (an annual regional Python convention) developing an API and its client with the rules of Vlaada Chvátil's board game Codenames. The goal was to teach good API development practices and code organization in an entertaining way for Django beginners.    
+- This is a Tutorial conducted during Python Sudeste 2018 (an annual regional Python convention) developing an API and its client with the rules of Vlaada Chvátil's board game Codenames. The goal was to teach good API development practices and code organization in an entertaining way for Django beginners.    
 - **Technologies**: Python, Django, Django REST Framework, Mock, requests.*
