@@ -103,5 +103,5 @@ Application Architect and Backend Developer skilled in creating and managing arc
 ### Codenames API: Implementing a board game with Django REST Framework
 *Python Sudeste 2018*
 
-- This is a Tutorial conducted during Python Sudeste 2018 (an annual regional Python convention) developing an API and its client with the rules of Vlaada Chvátil's board game Codenames. The goal was to teach good API development practices and code organization in an entertaining way for Django beginners.    
-- **Technologies**: Python, Django, Django REST Framework, Mock, requests.*
+- This was a tutorial conducted during Python Sudeste 2018 (an annual regional Python convention) developing an API and its client with the rules of Vlaada Chvátil's board game Codenames. The goal was to teach good API development practices and code organization in an entertaining way for Django beginners.    
+- **Technologies**: Python, Django, Django REST Framework.
